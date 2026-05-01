@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+ProgrammingA2/ filter=lfs diff=lfs merge=lfs -text
+ProgrammingA2.uproject filter=lfs diff=lfs merge=lfs -text
